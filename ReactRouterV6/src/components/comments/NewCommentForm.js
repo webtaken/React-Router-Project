@@ -1,5 +1,4 @@
 import { useRef, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
 import LoadingSpinner from '../UI/LoadingSpinner';
 import classes from './NewCommentForm.module.css';
 import useHttp from '../../hooks/use-http';
